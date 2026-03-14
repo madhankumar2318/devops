@@ -1,7 +1,5 @@
 name: Madhan-Pipeline
- 
 on: workflow_dispatch
- 
 jobs:
   Madhan-job: 
     runs-on: ubuntu-latest 
