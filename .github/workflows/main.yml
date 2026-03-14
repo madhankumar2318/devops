@@ -1,0 +1,10 @@
+name: Yuvaraj-Pipeline
+ 
+on: push
+ 
+jobs:
+  Madhan-job: 
+    runs-on: ubuntu-latest 
+    steps:
+      - name: print Madhan
+        run: echo "CI Pipeline Running"
