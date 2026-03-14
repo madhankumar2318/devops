@@ -1,6 +1,6 @@
 name: Madhan-Pipeline
  
-on: push
+on: workflow_dispatch
  
 jobs:
   Madhan-job: 
